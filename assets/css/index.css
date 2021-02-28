@@ -30,6 +30,7 @@ a {
   line-height: 60px;
   text-align: center;
   font-size: 12px;
+  /* 禁止里面的文本内容被用户选中 */
   user-select: none;
 }
 
